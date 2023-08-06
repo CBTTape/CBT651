@@ -1,0 +1,10 @@
+2023-08-06 06:15:38.165674 - Initialized conversion of CBT651
+2023-08-06 06:15:38.327669 - Received CBT.V505.FILE651.PDS from FILE651.XMI 
+2023-08-06 06:15:38.330078 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE651.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:15:38.331238 - Found $$DOC.txt (text/plain) in CBT.V505.FILE651.PDS, moved to PDS/$$DOC
+2023-08-06 06:15:38.332274 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE651.PDS, moved to PDS/$$NOTE1
+2023-08-06 06:15:38.349983 - Found $OUTPUT.xmi (application/xmit) in CBT.V505.FILE651.PDS
+2023-08-06 06:15:38.354905   - Received to CBT651/SBGOLOB.OUTPUTS
+2023-08-06 06:15:38.356058 - Found @FILE651.txt (text/plain) in CBT.V505.FILE651.PDS, moved to PDS/@FILE651
+2023-08-06 06:15:38.357076 - Found BWOINTRO.txt (text/plain) in CBT.V505.FILE651.PDS, moved to PDS/BWOINTRO
+2023-08-06 06:15:38.358291 - Found GDEBWOBT.txt (text/plain) in CBT.V505.FILE651.PDS, moved to PDS/GDEBWOBT
